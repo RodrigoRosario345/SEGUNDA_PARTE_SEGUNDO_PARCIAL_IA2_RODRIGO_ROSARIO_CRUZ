@@ -1,0 +1,134 @@
+[
+  {
+    "annotation": {
+      "filename": "papel (1).jpg",
+      "size": {
+        "width": "800",
+        "height": "600",
+        "depth": "3"
+      },
+      "object": [
+        {
+          "name": "papel",
+          "bndbox": {
+            "top": 269,
+            "left": 114,
+            "height": 165,
+            "width": 241
+          }
+        },
+        {
+          "name": "papel",
+          "bndbox": {
+            "top": 206,
+            "left": 459,
+            "height": 237,
+            "width": 195
+          }
+        }
+      ]
+    }
+  },
+  {
+    "annotation": {
+      "filename": "papel (2).jpg",
+      "size": {
+        "width": "800",
+        "height": "600",
+        "depth": "3"
+      },
+      "object": [
+        {
+          "name": "papel",
+          "bndbox": {
+            "top": 170,
+            "left": 359,
+            "height": 280,
+            "width": 199
+          }
+        }
+      ]
+    }
+  },
+  {
+    "annotation": {
+      "filename": "papel (3).jpg",
+      "size": {
+        "width": "800",
+        "height": "600",
+        "depth": "3"
+      },
+      "object": [
+        {
+          "name": "papel",
+          "bndbox": {
+            "top": 225,
+            "left": 426,
+            "height": 190,
+            "width": 161
+          }
+        }
+      ]
+    }
+  },
+  {
+    "annotation": {
+      "filename": "papel (4).jpg",
+      "size": {
+        "width": "800",
+        "height": "600",
+        "depth": "3"
+      },
+      "object": [
+        {
+          "name": "papel",
+          "bndbox": {
+            "top": 61,
+            "left": 164,
+            "height": 467,
+            "width": 482
+          }
+        }
+      ]
+    }
+  },
+  {
+    "annotation": {
+      "filename": "papel (5).jpg",
+      "size": {
+        "width": "800",
+        "height": "600",
+        "depth": "3"
+      },
+      "object": [
+        {
+          "name": "papel",
+          "bndbox": {
+            "top": 268,
+            "left": 53,
+            "height": 188,
+            "width": 121
+          }
+        },
+        {
+          "name": "papel",
+          "bndbox": {
+            "top": 265,
+            "left": 526,
+            "height": 262,
+            "width": 147
+          }
+        },
+        {
+          "name": "papel",
+          "bndbox": {
+            "top": 106,
+            "left": 164,
+            "height": 156,
+            "width": 120
+          }
+        }
+      ]
+    }
+  }
+]
